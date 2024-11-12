@@ -60,7 +60,7 @@ File.open("README.md", "wb") do |readme|
     File.open("#{rel["tag_name"]}/README.md", "wb") do |tag_readme|
       tag_readme.write("# #{rel["name"]}\n\n")
 
-      body = rel["body"].chomp
+      body = rel["body"].encode(rel["body"].encoding, universal_newline: true).chomp
       if body != ""
         tag_readme.write("#{body}\n")
       end
