@@ -9,6 +9,6 @@
 
 Filename            | Download Count
 ------------------- | --------------
-AltDrag-1.0b3-2.exe |             27
-AltDrag-1.0b3.7z    |             14
-AltDrag-1.0b3.exe   |             28
+AltDrag-1.0b3-2.exe |             43
+AltDrag-1.0b3.7z    |             30
+AltDrag-1.0b3.exe   |             44

@@ -89,7 +89,7 @@ File.open("README.md", "wb") do |readme|
         path = "#{rel["tag_name"]}/#{asset["name"]}"
 
         next if no_binaries
-        next if File.exists?(path) && File.size(path) == asset["size"]
+        next if File.exist?(path) && File.size(path) == asset["size"]
 
         resp = HTTP.follow.get(asset["browser_download_url"])
         raise(resp) if resp.code != 200

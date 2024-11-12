@@ -45,5 +45,5 @@
 
 Filename        | Download Count
 --------------- | --------------
-AltDrag-1.0.7z  |          2,010
-AltDrag-1.0.exe |          9,043
+AltDrag-1.0.7z  |          2,047
+AltDrag-1.0.exe |          9,194

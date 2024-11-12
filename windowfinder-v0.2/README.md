@@ -6,4 +6,4 @@
 
 Filename             | Download Count
 -------------------- | --------------
-WindowFinder-0.2.exe |             11
+WindowFinder-0.2.exe |             24

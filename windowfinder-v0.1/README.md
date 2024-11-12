@@ -6,4 +6,4 @@
 
 Filename            | Download Count
 ------------------- | --------------
-WindowFinder-0.1.7z |             12
+WindowFinder-0.1.7z |             29

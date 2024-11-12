@@ -13,5 +13,5 @@
 
 Filename          | Download Count
 ----------------- | --------------
-AltDrag-1.0rc.7z  |             31
-AltDrag-1.0rc.exe |             32
+AltDrag-1.0rc.7z  |             48
+AltDrag-1.0rc.exe |             49
